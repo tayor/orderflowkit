@@ -1,0 +1,16 @@
+.coverage
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+htmlcov/
+*.egg-info/
+*.py[cod]
+__pycache__/
+.ipynb_checkpoints/
+/data/
+/datasets/
+/features/
+/metrics/

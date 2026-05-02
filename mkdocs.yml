@@ -1,0 +1,9 @@
+site_name: OrderFlowKit
+site_description: Free-data market microstructure analytics, order-flow features, and L2 book replay for Python
+repo_url: https://github.com/tayor/orderflowkit
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Quickstart: quickstart.md
+  - API Reference: api_reference.md
